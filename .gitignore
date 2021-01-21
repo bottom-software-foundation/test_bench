@@ -1,0 +1,5 @@
+*.out
+.vscode/
+dist/
+__pycache__/
+*.py[cod]
