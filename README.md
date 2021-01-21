@@ -2,6 +2,12 @@
 
 Work In Progress.
 
+Requirements:
+
+- Python 3.7+
+- Rust
+- `hyperfine`
+
 ## Using Test Bench
 
 ```sh
